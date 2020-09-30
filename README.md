@@ -1,8 +1,8 @@
 # Inventory-management-System
 
-Assume you are working on a new warehouse inventory management system named IMS. IMS will be responsible for the inventory
+Assume you are working on a new Warehouse Inventory Management System named IMS. IMS will be responsible for the inventory
 
-tracking within physical, single site warehouses. IMS will track the named physical location of a product within the warehouse and the inventory
+tracking within physical, single site Warehouses. IMS will track the named physical location of a product within the warehouse and the inventory
 
 level of each product. IMS will be deployed to busy warehouses supporting many pickers and restockers working with individual terminals and
 
@@ -18,8 +18,8 @@ No additional product information needs to be tracked beyond location and level.
 
 Problem
 
-In Java, implement the picking and restocking routines for the IMS system. The InventoryManagementSystem interface will be the
+In Java, implement the picking and restocking routines for the IMS system. The Inventory Management System interface will be the
 
-first component to be implemented; all relevant domain objects will have to be implemented. The InventoryManagementSystem interface
+first component to be implemented,all relevant domain objects will have to be implemented. The Inventory Management System interface
 
 has already been distributed to other teams which depend on it.
